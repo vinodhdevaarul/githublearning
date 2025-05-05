@@ -2,8 +2,8 @@
 ---
 name: vda-bug-report.md
 about: VDA Bug Report 01
-title: ''
-labels: ''
+title: 'VDA Bug Report 01'
+labels: 'VDA Bug Report'
 assignees: ''
 
 ---
