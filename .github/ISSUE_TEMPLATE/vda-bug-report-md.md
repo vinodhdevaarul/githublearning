@@ -1,4 +1,3 @@
-# Welcome to the Bug Report
 ---
 name: vda-bug-report-md.md
 about: VDA Bug Report 01
